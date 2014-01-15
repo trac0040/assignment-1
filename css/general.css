@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#300;
+	line-height:18px;
+}
+ 
+div {
+	width:75%;
+	max-width:28rem;
+	padding:0.5rem;
+	background:#906;
+	height:70%;
+	margin:10% auto;
+	vertical-align:middle;
+	border-radius:10px;
+	position:static;
+	box-shadow:5px 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+blockquote {
+	color:#FFF;
+	text-indent:-1.3rem;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:100%;
+	margin-bottom:18px;
+}
+
+.quote1 {
+	display:inline-block;
+	position:relative;
+	top:32px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#C69;
+	font-size:80px;
+	line-height:15px;
+	margin-bottom:18px;
+}
+
+.quote2 {
+	 font-family:Arial, Helvetica, sans-serif;
+	 float:right;
+     margin-top:0px;
+     padding-top:28px;
+     font-size:80px;
+     color:#C69;
+}
+	
+.cite {
+	text-align:right;
+	color:#F9C;
+	font-family:Arial, Helvetica, sans-serif;
+}
